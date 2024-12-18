@@ -44,8 +44,17 @@
     }
     .primary-button{
         width: 100%;
+        text-align: center;
     }
     .big-feature-container{
         flex-direction: column;
+    }
+    .footer-container{
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+    .link-column{
+        align-items: center;
     }    
 }
